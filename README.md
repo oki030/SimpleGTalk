@@ -1,2 +1,2 @@
-nanoMVC
+SimpleGtalk lib and app
 =======
