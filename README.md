@@ -1,2 +1,2 @@
-SimpleGtalk lib and app
+Simple GTalk lib and client app
 =======
