@@ -1,0 +1,10 @@
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\GTalkLib\bin\Release\GTalkLib.dll
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\GTalkLib\bin\Release\GTalkLib.pdb
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\GTalkLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\GTalkLib\obj\Release\GTalkLib.dll
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\GTalkLib\obj\Release\GTalkLib.pdb
+C:\Users\Oliver\Desktop\GTalk\GTalkLib\bin\Release\GTalkLib.dll
+C:\Users\Oliver\Desktop\GTalk\GTalkLib\bin\Release\GTalkLib.pdb
+C:\Users\Oliver\Desktop\GTalk\GTalkLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\GTalk\GTalkLib\obj\Release\GTalkLib.dll
+C:\Users\Oliver\Desktop\GTalk\GTalkLib\obj\Release\GTalkLib.pdb

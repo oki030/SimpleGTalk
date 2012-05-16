@@ -1,0 +1,22 @@
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\bin\Release\Simple GTalk Client.exe
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\bin\Release\Simple GTalk Client.pdb
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\obj\x86\Release\Simple_GTalk_Client.Properties.Resources.resources
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\obj\x86\Release\Simple GTalk Client.exe
+C:\Users\Oliver\Desktop\WindowsFormsApplication1\Simple GTalk Client\obj\x86\Release\Simple GTalk Client.pdb
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Release\Simple GTalk Client.exe
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Release\Simple GTalk Client.pdb
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Release\GTalkLib.dll
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Release\GTalkLib.pdb
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple_GTalk_Client.ChatForm.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple_GTalk_Client.ContactControl.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple_GTalk_Client.Form1.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple_GTalk_Client.Properties.Resources.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple GTalk Client.exe
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple GTalk Client.pdb
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Release\Simple_GTalk_Client.DebugForm.resources

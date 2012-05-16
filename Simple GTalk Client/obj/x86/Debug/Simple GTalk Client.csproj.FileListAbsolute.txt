@@ -1,0 +1,14 @@
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Debug\Simple GTalk Client.exe
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Debug\Simple GTalk Client.pdb
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Debug\GTalkLib.dll
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\bin\Debug\GTalkLib.pdb
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple_GTalk_Client.ChatForm.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple_GTalk_Client.ContactControl.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple_GTalk_Client.Form1.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple_GTalk_Client.DebugForm.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple_GTalk_Client.Properties.Resources.resources
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple GTalk Client.exe
+C:\Users\Oliver\Desktop\GTalk\Simple GTalk Client\obj\x86\Debug\Simple GTalk Client.pdb
